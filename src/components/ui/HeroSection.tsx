@@ -7,7 +7,7 @@ function HeroSection() {
             <div className="p-8 relative z-10 w-full max-w-4xl mx-auto text-center">
                 
                 <div className="mb-10"> {/* Margin bottom for spacing */}
-                    <img 
+                    <Image
                         src="/image-mine.jpg" 
                         alt="Profile Picture" 
                         className="w-full max-w-sm h-auto rounded-full border-4 border-gray-300 shadow-lg mx-auto" 
