@@ -11,11 +11,12 @@ function About() {
                 <br /><br />
                 My studies also cover <span className="font-bold text-yellow-400">cloud computing</span>, <span className="font-bold text-yellow-400">DBMS</span>, and <span className="font-bold text-yellow-400">networking</span>, giving me a <span className="font-bold text-red-400">well-rounded technical foundation</span>.
                 <br /><br />
-                Currently, I’m focused on <span className="font-bold text-blue-400">C++</span> for enhancing my <span className="font-bold text-red-400">problem-solving skills</span> and preparing for future challenges.
+                Currently, I&apos;m focused on <span className="font-bold text-blue-400">C++</span> for enhancing my <span className="font-bold text-red-400">problem-solving skills</span> and preparing for future challenges.
                 <br /><br />
-                My curiosity and passion for hands-on learning drive me to create <span className="font-bold text-blue-400">impactful solutions</span>. Let's connect to discuss technology, collaborate, or share insights!
+                My curiosity and passion for hands-on learning drive me to create <span className="font-bold text-blue-400">impactful solutions</span>. Let&apos;s connect to discuss technology, collaborate, or share insights!
             </div>
         </div>
     )
 }
 export default About;
+
