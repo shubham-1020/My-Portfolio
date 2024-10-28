@@ -13,7 +13,7 @@ function About() {
                 <br /><br />
                 Currently, I&apos;m focused on <span className="font-bold text-blue-400">C++</span> for enhancing my <span className="font-bold text-red-400">problem-solving skills</span> and preparing for future challenges.
                 <br /><br />
-                My curiosity and passion for hands-on learning drive me to create <span className="font-bold text-blue-400">impactful solutions</span>. Let&apos;s connect to discuss technology, collaborate, or share insights!
+                My curiosity and passion for hands-on learning drive me to create <span className="font-bold text-blue-400">impactful solutions</span>. Lets connect to discuss technology, collaborate, or share insights!
             </div>
         </div>
     )
