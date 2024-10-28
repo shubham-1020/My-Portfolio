@@ -41,7 +41,7 @@ function Navbar({ className }: { className?: string }) {
                 </MenuItem>
 
                 <MenuItem setActive={setActive} active={active} item="Contact">
-                    <div className="flex flex-col space-y-4 text-sm text-black">
+                    <div className="flex flex-col space-y-4 text-sm text-white">
                             <a href="mailto:sk200310y@gmail.com">E-mail</a>
                             <HoveredLink href="#contact">Contact Form</HoveredLink>
                     </div>
