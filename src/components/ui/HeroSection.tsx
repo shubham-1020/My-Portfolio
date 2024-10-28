@@ -10,6 +10,7 @@ function HeroSection() {
                     <Image
                         src="/image-mine.jpg" 
                         alt="Profile Picture" 
+                        height={500} width={300}
                         className="w-full max-w-sm h-auto rounded-full border-4 border-gray-300 shadow-lg mx-auto" 
                     /> {/* Centered image with rounded styling */}
                 </div>
